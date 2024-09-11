@@ -25,5 +25,5 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMathur25&layout=compact&theme=radical&langs_count=10)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMathur25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaa2506&layout=compact&theme=radical&langs_count=10)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaa2506&show_icons=true&theme=radical)
